@@ -51,6 +51,19 @@ function Home() {
         headerText: 'Entidad',
         entidad: 'Platzi',
         tipo: 'Curso',
+        nombreCurso: 'Asincronismo con javaScript',
+        fecha: '31 de marzo de 2024'
+      },
+      {
+        headerText: 'Entidad',
+        entidad: 'Platzi',
+        tipo: 'Curso',
+        nombreCurso: 'JavaScript desde cero',
+        fecha: '24 de marzo de 2024'
+      },{
+        headerText: 'Entidad',
+        entidad: 'Platzi',
+        tipo: 'Curso',
         nombreCurso: 'Buenas prácticas y codigo limpio en C#',
         fecha: '07 de marzo de 2024'
       },
